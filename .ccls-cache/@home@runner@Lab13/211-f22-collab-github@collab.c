@@ -33,6 +33,7 @@ int main()
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
-    cwood35_arodr251();
+	cwood35_arodr251();
+	
     return 0;
 }
